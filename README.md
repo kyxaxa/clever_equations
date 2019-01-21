@@ -1,12 +1,13 @@
-# Generate equations to learn calculations
+Generate equations to learn calculations
+===
+
 Special for my daughters :)
 
-# Путали цифры 6 и 9
+Problems with 6 and 9?
+==
 
-Создаем донастройку
+Use `numbers_must_be` to setup fixed numbers that you 100% want to see in every equation
 
 '''
-numbers_must_be = [6, -6, 9, -9]    # Даша их путала - сделали чтобы в примерах обязательно они были
+numbers_must_be = [6, -6, 9, -9]
 '''
-
-Тогда в цифрах уравнения обязательно будут именно нужные нам цифры.
