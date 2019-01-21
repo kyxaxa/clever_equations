@@ -8,9 +8,9 @@ Problems with 6 and 9?
 
 Use `numbers_must_be` to setup fixed numbers that you 100% want to see in every equation
 
-'''
+```python
 numbers_must_be = [6, -6, 9, -9]
-'''
+```
 
 Todo:
 =
